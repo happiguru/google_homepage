@@ -1,0 +1,1 @@
+I will be doing the sample google homepage with the use of the following technologies; HTML and CSS all learnt from the odin project courses online
